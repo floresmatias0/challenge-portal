@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+#rating {
+  font-size: 3rem;
+}
+.active {
+  color: yellow;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
